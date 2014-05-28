@@ -15,4 +15,4 @@ This code of conduct applies to all communication: this includes the Meetup disc
 
 When we disagree, we try to understand why. Disagreements, both social and technical, happen all the time and NodeDC is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of NodeDC comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere, rather offer to help resolving issues and to help learn from mistakes.
 
-**Credits for the sources and inspiration of this code of conduct go directly to [Speak Up!](http://speakup.io/coc.html) for whom we borrowed almost completely inclusively.**
+**Credits for the sources and inspiration of this code of conduct go directly to [Speak Up!](http://speakup.io/coc.html) from whom we borrowed almost completely.**
