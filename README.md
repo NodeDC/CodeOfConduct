@@ -14,8 +14,8 @@ Organizers will be happy to help participants contact local law enforcement, pro
 
   - [Andrew Dunkman](http://www.meetup.com/node-dc/members/17692571/) at adunkman@gmail.com, (630) 310-0720.
   - [Dan MacTough](http://www.meetup.com/node-dc/members/55166232/).
-  - [Josh Finnie](http://www.meetup.com/node-dc/members/26710252/).
-  - [Matthew Whittemore](http://www.meetup.com/node-dc/members/10832656/).
+  - [Josh Finnie](http://www.meetup.com/node-dc/members/26710252/) at josh@jfin.us, (860) 716-5996.
+  - [Matthew Whittemore](http://www.meetup.com/node-dc/members/10832656/) at mcwhittemore@gmail.com, (646) 573-4888.
 
 - To file a police report, contact 911.
 
