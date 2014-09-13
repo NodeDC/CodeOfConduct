@@ -8,12 +8,14 @@ Sponsors of community events are also subject to the anti-harassment policy. In 
 
 If a participant engages in harassing behavior, the community organizers may take any action they deem appropriate, including warning the offender or expulsion from the community with no refund, if applicable. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer immediately.
 
+Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a community organizer should speak to the presenter afterward. However, the community organizers should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the anti-harassment policy. For example, simply say “I’m sorry, this presentation cannot be continued at the present time” with no further explanation.
+
 Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance, and want you to feel comfortable, safe, and supported.
 
 - To report any form of harassment or to seek immediate help, contact any of the Node.dc organizers present:
 
   - [Andrew Dunkman](http://www.meetup.com/node-dc/members/17692571/) at adunkman@gmail.com, (630) 310-0720.
-  - [Dan MacTough](http://www.meetup.com/node-dc/members/55166232/).
+  - [Dan MacTough](http://www.meetup.com/node-dc/members/55166232/) at danmactough@gmail.com, (202) 415-2258.
   - [Josh Finnie](http://www.meetup.com/node-dc/members/26710252/) at josh@jfin.us, (860) 716-5996.
   - [Matthew Whittemore](http://www.meetup.com/node-dc/members/10832656/) at mcwhittemore@gmail.com, (646) 573-4888.
 
