@@ -1,28 +1,29 @@
 ##Preamble
 
-The Node.dc community is diverse, representing a broad spectrum of backgrounds, experience levels, skill sets, and personal beliefs. In this diversity is strength.  In recognition of this fact, we have created a Code of Conduct to be followed during all events, online dicussions, and code projects (including issue discussions and pull requests).
+The Node.DC community is diverse, representing a broad spectrum of backgrounds, experience levels, skill sets, and personal beliefs. In this diversity is strength.  In recognition of this fact, we have created a Code of Conduct to be followed during all events, online dicussions, and code projects (including issue discussions and pull requests).
 
-Node.dc is not an employer, nor does it maintain a workplace as defined by federal law.  However, we use the following as guides to define harassment:
+Node.DC is not an employer, nor does it maintain a workplace as defined by federal law.  However, we use the following as guides to define harassment:
 
 * [Title VII of the Civil Rights Act](http://www.eeoc.gov/laws/statutes/titlevii.cfm)
 * [The Americans with Disabilities Act](http://www.ada.gov/pubs/adastatute08.htm)
 * [The Age Discrimination in Employment Act](http://www.eeoc.gov/laws/statutes/adea.cfm)
 
+A community member is defined as anyone who has contact, whether in person, online, or by proxy, with one or more Node.DC participants in execution of Node.dc sponsored activities.
 
 #The Node.DC Code Of Conduct
 
-*Node.dc is dedicated to providing a harassment-free community experience, regardless of gender identity and expression, sexual orientation, disability, physical appearance, race, age, or religion.
+Node.dc is dedicated to providing a harassment-free community experience, regardless of gender identity and expression, sexual orientation, disability, physical appearance, race, age, or religion.
 
-We do not tolerate harassment of community participants in any form.  This includes but is not limited to:
+Community members will treat each others with respect at all times.  Community members will not tolerate harassment in any form.  This includes but is not limited to:
 
 * Harassing speech, to include sign language and gestures
 * Unwanted physical contact
 * Offensive materials, whether printed, auditory, digital, or on articles of clothing
 * Advances of a sexual nature, regardless of the orientation or gender of the parties involved
 
-All community members affirm their commitment to upholding a harassment-free experience, and also acknowledge a personal responsibility to bring to the attention of the community any potentially harassing activity.*
+All community members affirm their commitment to upholding a harassment-free experience, and also acknowledge a personal responsibility to bring to the attention of the community any potentially harassing activity.
 
-## Additional Notes
+##Additional Notes
 
 Any activity that is identified as harassment by a community member or observer, whether in person, online, or by proxy, is subject to review by the community.  There is no time limit placed on identification or review of any activity identified as harassment.
 
@@ -36,7 +37,7 @@ Organizers will be happy to help participants contact local law enforcement, pro
 
 Community participants violating these rules may be sanctioned or expelled from events and the online meetup community without a refund (if applicable) at the discretion of the community organizers.
 
-- To report any form of harassment or to seek immediate help, contact any of the Node.dc organizers present:
+- To report any form of harassment or to seek immediate help, contact any of the Node.DC organizers present:
 
   - [Andrew Dunkman](http://www.meetup.com/node-dc/members/17692571/) at adunkman@gmail.com, (630) 310-0720.
   - [Dan MacTough](http://www.meetup.com/node-dc/members/55166232/) at danmactough@gmail.com, (202) 415-2258.
