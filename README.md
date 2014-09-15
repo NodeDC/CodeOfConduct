@@ -1,6 +1,6 @@
 ##Preamble
 
-The Node.dc community is diverse, representing a broad spectrum of backgrounds, experience levels, skill sets, and personal beliefs. In this diversity is our strength; in recognition of this fact, we have created a Code of Conduct to be followed during all events, online dicussions, and code projects (including issue discussions and pull requests).
+The Node.dc community is diverse, representing a broad spectrum of backgrounds, experience levels, skill sets, and personal beliefs. In this diversity is strength.  In recognition of this fact, we have created a Code of Conduct to be followed during all events, online dicussions, and code projects (including issue discussions and pull requests).
 
 Node.dc is not an employer, nor does it maintain a workplace as defined by federal law.  However, we use the following as guides to define harassment:
 
