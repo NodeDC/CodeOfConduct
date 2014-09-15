@@ -15,10 +15,10 @@ Node.dc is dedicated to providing a harassment-free community experience, regard
 
 We do not tolerate harassment of community participants in any form.  This includes but is not limited to:
 
-*Harassing speech, to include sign language and gestures
-*Unwanted physical contact
-*Offensive materials, whether printed, auditory, digital, or on articles of clothing
-*Advances of a sexual nature, regardless of the orientation or gender of the parties involved
+* Harassing speech, to include sign language and gestures
+* Unwanted physical contact
+* Offensive materials, whether printed, auditory, digital, or on articles of clothing
+* Advances of a sexual nature, regardless of the orientation or gender of the parties involved
 
 All community members affirm their commitment to upholding a harassment-free experience, and also acknowledge a personal responsibility to bring to the attention of the community any potentially harassing activity.
 
