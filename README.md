@@ -11,7 +11,7 @@ Node.dc is not an employer, nor does it maintain a workplace as defined by feder
 
 #The Node.DC Code Of Conduct
 
-Node.dc is dedicated to providing a harassment-free community experience, regardless of gender identity and expression, sexual orientation, disability, physical appearance, race, age, or religion.
+*Node.dc is dedicated to providing a harassment-free community experience, regardless of gender identity and expression, sexual orientation, disability, physical appearance, race, age, or religion.
 
 We do not tolerate harassment of community participants in any form.  This includes but is not limited to:
 
@@ -20,7 +20,7 @@ We do not tolerate harassment of community participants in any form.  This inclu
 * Offensive materials, whether printed, auditory, digital, or on articles of clothing
 * Advances of a sexual nature, regardless of the orientation or gender of the parties involved
 
-All community members affirm their commitment to upholding a harassment-free experience, and also acknowledge a personal responsibility to bring to the attention of the community any potentially harassing activity.
+All community members affirm their commitment to upholding a harassment-free experience, and also acknowledge a personal responsibility to bring to the attention of the community any potentially harassing activity.*
 
 ## Additional Notes
 
