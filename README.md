@@ -1,18 +1,43 @@
-The Node.dc community is made up of a mixture of professionals and volunteers with different levels of understanding and personal beliefs. This diversity is one of our strengths, and in an effort to enrich and protect our community we’ve enacted this Code of Conduct to be followed during all events, online dicussions on forums and chatrooms, and code projects (including issue discussions and pull requests).
+##Preamble
 
-Node.dc is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of community participants in any form. Sexual language and imagery is not appropriate for any community venue, including talks, hack nights, and in public spaces such as bars. Community participants violating these rules may be sanctioned or expelled from events and the online meetup community without a refund (if applicable) at the discretion of the community organizers.
+The Node.DC community is diverse, representing a broad spectrum of backgrounds, experience levels, skill sets, and personal beliefs. In this diversity is strength.  In recognition of this fact, we have created a Code of Conduct to be followed during all events, online dicussions, and code projects (including issue discussions and pull requests).
 
-Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion; sexual images in public spaces; deliberate intimidation, stalking, following, harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+Node.DC is not an employer, nor does it maintain a workplace as defined by federal law.  However, we use the following as guides to define harassment:
 
-Sponsors of community events are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Representatives from sponsor organizations should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+* [Title VII of the Civil Rights Act](http://www.eeoc.gov/laws/statutes/titlevii.cfm)
+* [The Americans with Disabilities Act](http://www.ada.gov/pubs/adastatute08.htm)
+* [The Age Discrimination in Employment Act](http://www.eeoc.gov/laws/statutes/adea.cfm)
 
-If a participant engages in harassing behavior, the community organizers may take any action they deem appropriate, including warning the offender or expulsion from the community with no refund, if applicable. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer immediately.
+A community member is defined as anyone who has contact, whether in person, online, or by proxy, with one or more Node.DC participants in execution of Node.dc sponsored activities.
+
+#The Node.DC Code Of Conduct
+
+*Node.dc is dedicated to providing a harassment-free community experience, regardless of gender identity and expression, sexual orientation, disability, physical appearance, race, age, or religion.*
+
+*Community members will treat each others with respect at all times.  Community members will not tolerate harassment in any form.  This includes but is not limited to:*
+
+* *Harassing speech, to include sign language and gestures*
+* *Unwanted physical contact*
+* *Offensive materials, whether printed, auditory, digital, or on articles of clothing*
+* *Advances of a sexual nature, regardless of the orientation or gender of the parties involved*
+
+*All community members affirm their commitment to upholding a harassment-free experience, and also acknowledge a personal responsibility to bring to the attention of the community any potentially harassing activity.*
+
+##Additional Notes
+
+Any activity that is identified as harassment by a community member or observer, whether in person, online, or by proxy, is subject to review by the community.  There is no time limit placed on identification or review of any activity identified as harassment.
+
+Sponsors of community events are also subject to this Code Of Conduct.
+
+If a participant engages in harassing behavior, the community organizers may take any action they deem appropriate, including warning the offender or expulsion from the community with no refund, if applicable.  Actions taken by community organizers do not preclude additional legal or civil action as defined in the laws and statutes applicable to the location and venue at which the behavior occurs.
 
 Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a community organizer should speak to the presenter afterward. However, the community organizers should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the anti-harassment policy. For example, simply say “I’m sorry, this presentation cannot be continued at the present time” with no further explanation.
 
 Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance, and want you to feel comfortable, safe, and supported.
 
-- To report any form of harassment or to seek immediate help, contact any of the Node.dc organizers present:
+Community participants violating these rules may be sanctioned or expelled from events and the online meetup community without a refund (if applicable) at the discretion of the community organizers.
+
+- To report any form of harassment or to seek immediate help, contact any of the Node.DC organizers present:
 
   - [Andrew Dunkman](http://www.meetup.com/node-dc/members/17692571/) at adunkman@gmail.com, (630) 310-0720.
   - [Dan MacTough](http://www.meetup.com/node-dc/members/55166232/) at danmactough@gmail.com, (202) 415-2258.
