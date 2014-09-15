@@ -12,16 +12,16 @@ A community member is defined as anyone who has contact, whether in person, onli
 
 #The Node.DC Code Of Conduct
 
-Node.dc is dedicated to providing a harassment-free community experience, regardless of gender identity and expression, sexual orientation, disability, physical appearance, race, age, or religion.
+*Node.dc is dedicated to providing a harassment-free community experience, regardless of gender identity and expression, sexual orientation, disability, physical appearance, race, age, or religion.*
 
-Community members will treat each others with respect at all times.  Community members will not tolerate harassment in any form.  This includes but is not limited to:
+*Community members will treat each others with respect at all times.  Community members will not tolerate harassment in any form.  This includes but is not limited to:*
 
-* Harassing speech, to include sign language and gestures
-* Unwanted physical contact
-* Offensive materials, whether printed, auditory, digital, or on articles of clothing
-* Advances of a sexual nature, regardless of the orientation or gender of the parties involved
+* *Harassing speech, to include sign language and gestures*
+* *Unwanted physical contact*
+* *Offensive materials, whether printed, auditory, digital, or on articles of clothing*
+* *Advances of a sexual nature, regardless of the orientation or gender of the parties involved*
 
-All community members affirm their commitment to upholding a harassment-free experience, and also acknowledge a personal responsibility to bring to the attention of the community any potentially harassing activity.
+*All community members affirm their commitment to upholding a harassment-free experience, and also acknowledge a personal responsibility to bring to the attention of the community any potentially harassing activity.*
 
 ##Additional Notes
 
